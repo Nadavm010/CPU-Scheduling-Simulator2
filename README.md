@@ -1,3 +1,26 @@
+# CPU Scheduling Simulator  
+### SJF vs Priority Scheduling Comparison Tool
+ Project Description
+
+This project is a Java-based CPU Scheduling Simulator developed to compare the performance of two important CPU scheduling algorithms:
+
+- Shortest Job First (SJF)
+- Priority Scheduling
+
+The simulator supports both:
+- Preemptive Scheduling
+- Non-Preemptive Scheduling
+
+The system provides an interactive graphical user interface (GUI) that allows users to:
+- Add and manage processes
+- Run scheduling simulations
+- Visualize execution using Gantt Charts
+- Compare scheduling performance metrics
+- Generate performance analysis and final recommendations
+
+This project demonstrates Operating Systems scheduling concepts and highlights the trade-off between efficiency-focused and urgency-focused scheduling techniques.
+
+---
  Features
 - Add multiple processes with:
   - Process ID
