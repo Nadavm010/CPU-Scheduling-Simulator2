@@ -1,4 +1,4 @@
-## 🚀 Features
+ Features
 - Add multiple processes with:
   - Process ID
   - Arrival Time
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 Algorithms Implemented
+ Algorithms Implemented
 
 ### 1. SJF (Shortest Job First)
 - Selects process with shortest burst time
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 Output Features
+ Output Features
 
 - Gantt Chart visualization for each algorithm
 - Metrics table showing:
@@ -48,18 +48,27 @@
 
 ---
 src/
+
 ├── model/
+
 │ └── process.java
+
 ├── scheduler/
+
 │ └── algorithm.java
+
 ├── gui/
+
 │ └── gui.java
+
 ├── util/ (optional)
+
 ├── metrics/ (optional)
+
 
 ---
 
-## 🖥️ How to Run
+ How to Run
 
 1. Open the project in IntelliJ IDEA or Eclipse
 2. Ensure Java 8+ is installed
@@ -73,7 +82,7 @@ gui.gui
 
 ---
 
-## 📷 Screenshots
+ Screenshots
 
 Add screenshots in the `/screenshots` folder:
 
@@ -84,7 +93,7 @@ Add screenshots in the `/screenshots` folder:
 
 ---
 
-## 🧪 Sample Test Cases
+ Sample Test Cases
 
 Located in `/test-cases`
 
@@ -96,8 +105,7 @@ Example:
 | 3   | 2      | 4     | 3        |
 
 ---
-
-## ⚙️ Technologies Used
+ Technologies Used
 - Java
 - Swing (GUI)
 - OOP Principles
@@ -105,7 +113,7 @@ Example:
 
 ---
 
-## 👥 Team Information
+ Team Information
 - Team Number: [106]
 - Students:
 -Sondos Saber  20240446
@@ -126,14 +134,14 @@ Example:
  - ىشي
 ---
 
-## 📌 Notes
+ Notes
 - The simulator assumes all inputs are valid integers after validation.
 - Lower priority number means higher priority.
 - CPU idle time is handled in both algorithms.
 
 ---
 
-## 📈 Future Improvements
+ Future Improvements
 - Add Round Robin algorithm
 - Export results to Excel/PDF
 - Dark mode UI
