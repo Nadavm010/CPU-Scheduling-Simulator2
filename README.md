@@ -151,11 +151,6 @@ Example:
 
 -sabrin yasser 20240492
 
--ى
--ى
--ىشيش
- - ىشي
----
 
  Notes
 - The simulator assumes all inputs are valid integers after validation.
