@@ -116,7 +116,7 @@ Add screenshots in the `/screenshots` folder:
 
 ---
 
- Sample Test Cases
+ Sample Test Case
 
 Located in `/test-cases`
 
